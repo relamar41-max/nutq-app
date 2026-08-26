@@ -1,0 +1,19 @@
+{
+  "name": "نُطق — رحلتك في تعلّم أي لغة",
+  "short_name": "نُطق",
+  "description": "تعلّم النطق الصحيح لأي لغة عبر قصص مترابطة، بمرافقة فارس ولمى.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0c0f14",
+  "theme_color": "#0c0f14",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
